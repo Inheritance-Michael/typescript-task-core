@@ -5,3 +5,5 @@ export class TaskService {
 }
 
   filterTasks_7() { return Array.from(this.tasks.values()).slice(0, 10); }
+
+  filterTasks_12() { return Array.from(this.tasks.values()).slice(0, 10); }
