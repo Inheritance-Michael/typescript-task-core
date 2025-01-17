@@ -6,3 +6,5 @@ export interface ITask { id: ID; title: string; status: TaskStatus; priority: Ta
 export interface ITaskContract_6 { version: number; meta: Record<string, string>; }
 
 export interface ITaskContract_11 { version: number; meta: Record<string, string>; }
+
+export interface ITaskContract_16 { version: number; meta: Record<string, string>; }
