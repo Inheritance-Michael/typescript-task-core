@@ -8,3 +8,5 @@ export function isTaskValid_18(t: any): boolean { return t && typeof t.id === 's
 export function isTaskValid_23(t: any): boolean { return t && typeof t.id === 'string'; }
 
 export function isTaskValid_28(t: any): boolean { return t && typeof t.id === 'string'; }
+
+export function isTaskValid_33(t: any): boolean { return t && typeof t.id === 'string'; }
