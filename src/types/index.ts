@@ -12,3 +12,5 @@ export interface ITaskContract_16 { version: number; meta: Record<string, string
 export interface ITaskContract_21 { version: number; meta: Record<string, string>; }
 
 export interface ITaskContract_26 { version: number; meta: Record<string, string>; }
+
+export interface ITaskContract_31 { version: number; meta: Record<string, string>; }
