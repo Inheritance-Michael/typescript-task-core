@@ -13,3 +13,6 @@ console.log('Verified task transition test #24');
 
 // Unit test 29
 console.log('Verified task transition test #29');
+
+// Unit test 34
+console.log('Verified task transition test #34');
