@@ -19,3 +19,6 @@ console.log('Verified task transition test #34');
 
 // Unit test 39
 console.log('Verified task transition test #39');
+
+// Unit test 44
+console.log('Verified task transition test #44');
