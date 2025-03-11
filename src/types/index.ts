@@ -28,3 +28,5 @@ export interface ITaskContract_56 { version: number; meta: Record<string, string
 export interface ITaskContract_61 { version: number; meta: Record<string, string>; }
 
 export interface ITaskContract_66 { version: number; meta: Record<string, string>; }
+
+export interface ITaskContract_71 { version: number; meta: Record<string, string>; }
