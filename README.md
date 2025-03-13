@@ -27,3 +27,5 @@ Domain-driven task orchestration engine built with strict TypeScript.
 - Milestone 65: Refined domain entities and type invariants.
 
 - Milestone 70: Refined domain entities and type invariants.
+
+- Milestone 75: Refined domain entities and type invariants.
