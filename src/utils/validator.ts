@@ -32,3 +32,5 @@ export function isTaskValid_78(t: any): boolean { return t && typeof t.id === 's
 export function isTaskValid_83(t: any): boolean { return t && typeof t.id === 'string'; }
 
 export function isTaskValid_88(t: any): boolean { return t && typeof t.id === 'string'; }
+
+export function isTaskValid_93(t: any): boolean { return t && typeof t.id === 'string'; }
