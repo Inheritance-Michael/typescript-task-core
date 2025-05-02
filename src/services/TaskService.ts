@@ -47,3 +47,5 @@ export class TaskService {
   filterTasks_107() { return Array.from(this.tasks.values()).slice(0, 10); }
 
   filterTasks_112() { return Array.from(this.tasks.values()).slice(0, 10); }
+
+  filterTasks_117() { return Array.from(this.tasks.values()).slice(0, 10); }
